@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("HelloGit-hot-fix - Version - 4");
         System.out.println("merge - 2");
         System.out.println("代码冲突-master");
+        System.out.println("ssh->push...");
     }
 }
