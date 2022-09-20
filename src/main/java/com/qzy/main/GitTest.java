@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("merge - 2");
         System.out.println("代码冲突-master");
         System.out.println("ssh->push...");
+        System.out.println("GitHub->pull...");
     }
 }
