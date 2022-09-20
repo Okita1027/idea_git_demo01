@@ -12,6 +12,6 @@ public class GitTest {
         System.out.println("HelloGit - Version - 3");
         System.out.println("HelloGit-hot-fix - Version - 4");
         System.out.println("merge - 2");
-
+        System.out.println("代码冲突-1");
     }
 }
